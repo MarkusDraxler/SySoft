@@ -1,0 +1,167 @@
+
+Markus@MarkusPC ~/SySoftI/blatt12
+$ cpp -P ./heidenroeslein.c
+War so jung und morgenschoen,
+Lief er schnell es nah zu sehn,
+Sah es mit vielen Freuden.
+Roeslein sprach: ich steche dich,
+Dass du ewig denkst an mich,
+Und ich wills nicht leiden.
+Roeslein wehrte sich und stach,
+Half ihr doch kein Weh und Ach,
+Musste es eben leiden.
+Johann Wolfgang von Goethe
+Heidenröslein
+s1
+Roeslein, Roeslein, Roeslein roth,
+Roeslein auf der Heiden.
+s2
+Roeslein, Roeslein, Roeslein roth,
+Roeslein auf der Heiden.
+s3
+Roeslein, Roeslein, Roeslein roth,
+Roeslein auf der Heiden.
+
+Markus@MarkusPC ~/SySoftI/blatt12
+$ chmod -l ./heidenroeslein.c
+chmod: unknown option -- l
+„chmod --help“ liefert weitere Informationen.
+
+Markus@MarkusPC ~/SySoftI/blatt12
+$ ls -l ./heidenroeslein.c
+-rw-r--r-- 1 Markus Markus 114 21. Jan 20:41 ./heidenroeslein.c
+
+Markus@MarkusPC ~/SySoftI/blatt12
+$ cpp -P ./heidenroeslein.c
+War so jung und morgenschoen,
+Lief er schnell es nah zu sehn,
+Sah es mit vielen Freuden.
+Roeslein sprach: ich steche dich,
+Dass du ewig denkst an mich,
+Und ich wills nicht leiden.
+Roeslein wehrte sich und stach,
+Half ihr doch kein Weh und Ach,
+Musste es eben leiden.
+Johann Wolfgang von Goethe
+Heidenröslein
+s1
+Roeslein, Roeslein, Roeslein roth,
+Roeslein auf der Heiden.
+s2
+Roeslein, Roeslein, Roeslein roth,
+Roeslein auf der Heiden.
+s3
+Roeslein, Roeslein, Roeslein roth,
+Roeslein auf der Heiden.
+
+Markus@MarkusPC ~/SySoftI/blatt12
+$ cpp -P ./heidenroeslein.c
+War so jung und morgenschoen,
+Lief er schnell es nah zu sehn,
+Sah es mit vielen Freuden.
+Roeslein sprach: ich steche dich,
+Dass du ewig denkst an mich,
+Und ich wills nicht leiden.
+Roeslein wehrte sich und stach,
+Half ihr doch kein Weh und Ach,
+Musste es eben leiden.
+Johann Wolfgang von Goethe
+Heidenröslein
+s1
+Roeslein, Roeslein, Roeslein roth,
+Roeslein auf der Heiden.
+s2
+Roeslein, Roeslein, Roeslein roth,
+Roeslein auf der Heiden.
+s3
+Roeslein, Roeslein, Roeslein roth,
+Roeslein auf der Heiden.
+
+Markus@MarkusPC ~/SySoftI/blatt12
+$ cpp -P ./heidenroeslein.c
+Johann Wolfgang von Goethe
+Heidenröslein
+s1
+Roeslein, Roeslein, Roeslein roth,
+Roeslein auf der Heiden.
+s2
+Roeslein, Roeslein, Roeslein roth,
+Roeslein auf der Heiden.
+s3
+Roeslein, Roeslein, Roeslein roth,
+Roeslein auf der Heiden.
+
+Markus@MarkusPC ~/SySoftI/blatt12
+$ cpp -P ./heidenroeslein.c
+Johann Wolfgang von Goethe
+Heidenröslein
+s1
+Roeslein, Roeslein, Roeslein roth,
+Roeslein auf der Heiden.
+s2
+Roeslein, Roeslein, Roeslein roth,
+Roeslein auf der Heiden.
+s3
+Roeslein, Roeslein, Roeslein roth,
+Roeslein auf der Heiden.
+
+Markus@MarkusPC ~/SySoftI/blatt12
+$ cpp -P ./heidenroeslein.c
+In file included from ./heidenroeslein.c:1:0:
+././makros.h:7:11: Warnung: mehrere Token am Ende der Direktive #undef
+ #undef S1 s1
+           ^~
+Roeslein sprach: ich steche dich,
+Dass du ewig denkst an mich,
+Und ich wills nicht leiden.
+Roeslein wehrte sich und stach,
+Half ihr doch kein Weh und Ach,
+Musste es eben leiden.
+Johann Wolfgang von Goethe
+Heidenröslein
+s1
+Roeslein, Roeslein, Roeslein roth,
+Roeslein auf der Heiden.
+s2
+Roeslein, Roeslein, Roeslein roth,
+Roeslein auf der Heiden.
+s3
+Roeslein, Roeslein, Roeslein roth,
+Roeslein auf der Heiden.
+
+Markus@MarkusPC ~/SySoftI/blatt12
+$ cpp -P ./heidenroeslein.c
+Roeslein sprach: ich steche dich,
+Dass du ewig denkst an mich,
+Und ich wills nicht leiden.
+Roeslein wehrte sich und stach,
+Half ihr doch kein Weh und Ach,
+Musste es eben leiden.
+Johann Wolfgang von Goethe
+Heidenröslein
+s1
+Roeslein, Roeslein, Roeslein roth,
+Roeslein auf der Heiden.
+s2
+Roeslein, Roeslein, Roeslein roth,
+Roeslein auf der Heiden.
+s3
+Roeslein, Roeslein, Roeslein roth,
+Roeslein auf der Heiden.
+
+Markus@MarkusPC ~/SySoftI/blatt12
+$ cpp -P ./heidenroeslein.c
+Johann Wolfgang von Goethe
+Heidenröslein
+s1
+Roeslein, Roeslein, Roeslein roth,
+Roeslein auf der Heiden.
+s2
+Roeslein, Roeslein, Roeslein roth,
+Roeslein auf der Heiden.
+s3
+Roeslein, Roeslein, Roeslein roth,
+Roeslein auf der Heiden.
+
+Markus@MarkusPC ~/SySoftI/blatt12
+$ 
