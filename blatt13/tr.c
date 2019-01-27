@@ -15,10 +15,12 @@ void die(char* filename);
 
 
 int main(int argc, char* argv[]) {
-//	regex_t regex;
-//	unsigned int regex_flags = REG_NOSUB;
-//	unsigned int regex_error = regcomp(&regex, pattern, regex_flags);
-//	regexec(&regex, line, 0,0,0);
+	regmatch_t pmatch[2];
+	size_t nmatch = 2;
+	regex_t regex;
+	char* pattern = argv[1];
+	char* linetochange;
+
 	cmdname = argv[3];
 
 	for(int i=0; i<=argc; i++) printf("%s", argv[i]);
@@ -40,6 +42,11 @@ int main(int argc, char* argv[]) {
 		if(count <= 0) die (infile);
 	}
 	if(nbytes < 0) die (infile);
+
+	//make the change with regexec
+	unsigned int regex_flags = REG_NOSUB;
+	unsigned int regex_error = regcomp(&regex, pattern, regex_flags);
+	regexec(&regex, linetochange, nmatch, pmatch, 0);
 
 	return 0;
 }
